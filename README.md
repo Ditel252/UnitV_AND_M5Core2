@@ -1,6 +1,6 @@
 # UnitV_AND_M5Core2
 ## 説明
-UnitV AI Cameraで撮影した写真を, そのままM5Stack Core2に表示するプログラム.
+UnitV AI Cameraで撮影した画像を, そのままM5Stack Core2に表示するプログラム.
 ## 環境
 |項目|内容|
 |----|----|
